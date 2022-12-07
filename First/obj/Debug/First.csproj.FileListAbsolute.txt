@@ -1,0 +1,13 @@
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\bin\Debug\First.exe.config
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\bin\Debug\First.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\bin\Debug\First.pdb
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\bin\Debug\SimpleTCP.dll
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.csproj.AssemblyReference.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.Form1.resources
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.Properties.Resources.resources
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.csproj.GenerateResource.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.csproj.CopyComplete
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.exe
+D:\ddpu\ККП\Лаб\CPP_Lab_3.3\First\obj\Debug\First.pdb
